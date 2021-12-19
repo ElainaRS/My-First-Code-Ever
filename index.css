@@ -1,0 +1,44 @@
+body {
+  background-image: url("EmT-HSxUcAIv_Z-.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 10%;
+  color: crimson;
+  font-size: 32px;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#rrr {
+  margin-left: -13rem;
+}
+#eee {
+  margin-left: -13rem;
+}
+
+input.shows {
+  width: 20rem;
+  height: 2rem;
+  margin-left: 32rem;
+  border: 1px solid;
+  margin-left: 2rem;
+  border-color: #2a24d4;
+  width: 10%;
+  padding: 12px 20px;
+}
+#shared {
+  position: absolute;
+  margin-inline-start: 4rem;
+  background-blend-mode: darken;
+}
+#scholar {
+  position: absolute;
+  margin-inline-start: 4rem;
+}
+button {
+  width: 8rem;
+  height: 3rem;
+  margin-top: 3rem;
+}
